@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="topButtons">#1C1C1C</color>
+    <color name="operations">#FF9500</color>
+    <color name="numbers">#505050</color>
+</resources>
